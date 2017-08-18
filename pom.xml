@@ -5,7 +5,7 @@
 	<groupId>com.neueda</groupId>
 	<artifactId>trade-app</artifactId>
 	<version>0.1.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>Simple Trade Recording Application</name>
 	<description>Trade Recording</description>
 	
